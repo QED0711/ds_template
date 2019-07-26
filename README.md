@@ -1,2 +1,2 @@
 # ds_template
-A Tmplate for Data Science Projects
+A Template for Public Data Science Projects
